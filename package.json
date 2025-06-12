@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://SantiagoColombet.github.io/Tp4-citas-parte-1",
+  "homepage": "https://github.com/SantiagoColombet/TP5-ReactRouter-Colombet.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

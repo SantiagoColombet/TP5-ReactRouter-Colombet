@@ -5,6 +5,8 @@ import BorrarCita from './BorrarCita';
 
 function Citas({listaCitas, setListaCitas}) {
     return (
+        <>
+        <h1>ADMINISTRA TUS CITAS</h1>
         <div className='containerCitas'>
           {listaCitas?.map((listaCitas) => (
             <div className="cita">
@@ -17,6 +19,7 @@ function Citas({listaCitas, setListaCitas}) {
           </div>
           ))}
         </div>
+        </>
       );
 }
 

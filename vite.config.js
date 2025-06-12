@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Tp4-citas-parte-1'
+  base: '/TP5-ReactRouter-Colombet'
 })

@@ -44,8 +44,7 @@ function App() {
       </nav>
       <Routes>
         <Route index path="/" element={<Home />} />
-        <Route
-          path="/formulario"
+        <Route path="/formulario"
           element={
             <FormularioPage
               listaCitas={listaCitas}
@@ -55,8 +54,7 @@ function App() {
             />
           }
         />
-        <Route
-          path="/citas"
+        <Route path="/citas"
           element={
             <CitasPage
               listaCitas={listaCitas}

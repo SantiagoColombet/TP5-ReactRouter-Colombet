@@ -6,7 +6,6 @@ import Formulario from "../Formulario"
 function FormularioPage({ listaCitas, setListaCitas, contador, setContador }) {
   return (
     <div className="container">
-        <h1>Agregar Cita</h1>
         <Formulario
         listaCitas={listaCitas}
         setListaCitas={setListaCitas}

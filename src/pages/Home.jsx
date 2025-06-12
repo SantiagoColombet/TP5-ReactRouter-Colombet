@@ -4,7 +4,7 @@ import "../Container.css";
 
 function Home() {
   return (
-    <p>ADMINISTRADOR DE TAREAS</p>
+    <h1>ADMINISTRADOR DE TAREAS</h1>
     )
 }
 
